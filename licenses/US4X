@@ -1,0 +1,34 @@
+================================================================================
+                        THIRD-PARTY NOTICES AND LICENSES
+================================================================================
+
+This  distribution  of  the  project  Anime  Ultrascale  includes  the following
+third-party binary components:
+
+--------------------------------------------------------------------------------
+DAT2 Model - UltraSharpV2 (us4x.bin / us4x.param)
+--------------------------------------------------------------------------------
+Source:  https://huggingface.co/Kim2091/UltraSharpV2
+Authors: Copyright (c) 2025 Kim2091
+License: CC BY-NC-SA 4.0
+         Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+You are free to:
+- Share:  copy  and  redistribute  the  material in any medium or format for any
+  non-commercial purpose.
+- Adapt:  remix,  transform,  and  build upon the material for any non-commercial
+  purpose.
+
+Under the following terms:
+- Attribution:  You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner, but
+  not in any way that suggests the licensor endorses you or your use.
+- NonCommercial:  You  may  not  use  the  material  for  commercial purposes.
+- ShareAlike:  If  you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license as the original.
+- No  additional  restrictions:  You  may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license permits.
+
+Full License Text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+================================================================================
