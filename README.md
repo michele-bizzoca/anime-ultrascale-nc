@@ -22,10 +22,10 @@ I  summarized  my experience on this topic in a workflow for extreme restoration
 of  anime  images, which can be executed with freely available and simple-to-use
 tools.  It  is  presented,  with  an example of 170x resolution increase, in the
 article
-[**Anime Upscaling**](https://github.com/michele-bizzoca/anime-upscaling), which
-you can [**Read Online**](https://michele-bizzoca.github.io/anime-upscaling/).
+[**Upscaling Anime**](https://github.com/michele-bizzoca/upscaling-anime), which
+you can [**Read Online**](https://michele-bizzoca.github.io/upscaling-anime/).
 
-Later,  I turned Anime Upscaling into a fully automatic program, and added extra
+Later,  I turned Upscaling Anime into a fully automatic program, and added extra
 features  to it, like automatic upscaling inversion, progress bar, preset files,
 advanced     logging     and     format     expressions.     Its     name     is
 [**Anime Ultrascale**](https://github.com/michele-bizzoca/anime-ultrascale).  It
